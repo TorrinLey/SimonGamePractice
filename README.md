@@ -1,0 +1,2 @@
+# SimonGamePractice
+Learning How to create and replicate a game of Simon using JS, HTML, CSS and demonstrating my beginner knowledge of using JQuery.
